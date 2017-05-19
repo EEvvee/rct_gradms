@@ -1,0 +1,3 @@
+rootProject.name = 'rct_gradms'
+
+include ':app'
